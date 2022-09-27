@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnielseniq.com%2Fglobal%2Fen%2Finsights%2Fanalysis%2F2019%2Fits-not-guessing-its-science-data-science%2F&psig=AOvVaw3MY_SAXXuOCXZvZPQqxQol&ust=1664342823095000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiVj6qetPoCFQAAAAAdAAAAABAD)](https://in-imitable.io)
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://in-imitable.io)
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
