@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/in_imitable" target="blank"><img src="https://img.shields.io/twitter/follow/in_imitable?logo=twitter&style=for-the-badge" alt="in_imitable" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Machine Learning**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://in-imitable.github.io/](https://in-imitable.github.io/)
 
-- 📫 How to reach me **atul69030@gmail.com**
+- 📫 How to reach me **dev.atulk@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
